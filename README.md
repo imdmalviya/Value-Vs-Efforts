@@ -1,6 +1,8 @@
 Value vs. Effort Prioritization Tool
 A Data-Driven Framework to Work Smarter, Not Harder
 
+Weblink for same: ** https://prioritize-smart.preview.emergentagent.com/?utm_source=share **
+
 📋 Overview:
 The Value vs. Effort Prioritization Tool is an Excel-based framework designed to help professionals, managers, teams, and organizations make smarter decisions about where to invest their time and energy.
 Instead of reacting to urgency, this tool systematically evaluates every task based on its organizational impact and the effort required, then provides clear recommendations: Do It Now, Plan It, Delegate It, or Eliminate It.
